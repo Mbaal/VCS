@@ -1,4 +1,12 @@
+
+Pizza:
 -pizzadeeg
 -tomatensaus
 -geraspte kaas
 -salami
+
+Ontbijt:
+-Jam
+-Cornflakes
+-Croissant
+-Heet water met thee zakje
